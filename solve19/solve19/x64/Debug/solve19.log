@@ -1,0 +1,3 @@
+﻿  solve19.cpp
+E:\PACourse4\solve19\solve19.cpp(16,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  solve19.vcxproj -> E:\PACourse4\solve19\x64\Debug\solve19.exe
