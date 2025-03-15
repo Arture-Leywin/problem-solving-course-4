@@ -1,0 +1,4 @@
+﻿  solve21.cpp
+E:\PACourse4\solve21\solve21.cpp(5,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\PACourse4\solve21\solve21.cpp(16,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  solve21.vcxproj -> E:\PACourse4\solve21\x64\Debug\solve21.exe

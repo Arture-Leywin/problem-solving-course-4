@@ -1,0 +1,4 @@
+﻿  solve22.cpp
+E:\PACourse4\solve22\solve22.cpp(5,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\PACourse4\solve22\solve22.cpp(16,30): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  solve22.vcxproj -> E:\PACourse4\solve22\x64\Debug\solve22.exe

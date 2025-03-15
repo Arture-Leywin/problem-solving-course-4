@@ -1,0 +1,4 @@
+﻿  solve23.cpp
+E:\PACourse4\solve23\solve23.cpp(5,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\PACourse4\solve23\solve23.cpp(20,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  solve23.vcxproj -> E:\PACourse4\solve23\x64\Debug\solve23.exe
