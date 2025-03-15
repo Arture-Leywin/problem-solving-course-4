@@ -1,0 +1,4 @@
+﻿  solve28.cpp
+E:\PACourse4\solve28\solve28.cpp(20,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\PACourse4\solve28\solve28.cpp(21,11): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  solve28.vcxproj -> E:\PACourse4\solve28\x64\Debug\solve28.exe
